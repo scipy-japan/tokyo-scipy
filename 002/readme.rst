@@ -3,6 +3,7 @@ Tokyo.Scipy #002
 ****************
 
 第2回 Tokyo.Scipy で議論された code snippet などです．
+サンプルコードは，オリジナルのものをコピーしただけなので，-inf に対応していなかったり，行列の大きさの変更に対応していなかったり，クラスの値の範囲が 1 からか 0 からかまちまちだったりするため，気がついたら書き直して下さい．
 
 - Partake: http://partake.in/events/ef1d15c9-a9ba-46e4-b94e-e91e6fbd0aa3
 - Announce: http://groups.google.com/group/tokyo_scipy/browse_frm/thread/3a9baba571c9d0bc
