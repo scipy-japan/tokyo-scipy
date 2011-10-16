@@ -11,14 +11,10 @@ Tokyo.Scipy #002
 Program
 =======
 
-- 12:30 受付開始
-- 13:00-13:10 開催宣言・会場案内 比戸（IBM、@sla）
-- 13:10-14:25 NumPy/SciPy体験セクション続編 杜世橋さん （FreeBit、@lucidfrontier45） http://j.mp/ra3Esg
-14:55-15:40 数式を numpy に落としこむコツ 〜機械学習を題材に〜 @shuyoさん 
-15:40-16:40 最適なコーディングディスカッション 全員 http://www.slideshare.net/shoheihido/111015-tokyo-scipy2
-17:00-17:30 pandasパッケージで幸せになる ー海外SciPyチュートリアル紹介 比戸（IBM、@sla） http://www.slideshare.net/wesm/data-structures-for-statistical-computing-in-python
-- 17:30-18:00 LT(1)："Callable Array" @tyatsutaさん http://www.slideshare.net/yatsuta/tokyo-scipy2
-18:45- 会場外で懇親会 希望者のみ
+- NumPy/SciPy体験セクション続編 杜世橋さん （FreeBit、@lucidfrontier45） http://j.mp/ra3Esg
+- 数式を numpy に落としこむコツ 〜機械学習を題材に〜 @shuyoさん http://d.hatena.ne.jp/n_shuyo/20111016/numpy
+- 最適なコーディングディスカッション 全員 http://www.slideshare.net/shoheihido/111015-tokyo-scipy2
+- Callable Array @tyatsutaさん http://www.slideshare.net/yatsuta/tokyo-scipy2
 
 CODE 03
 =======
