@@ -3,7 +3,7 @@ Tokyo.Scipy #002
 ****************
 
 - 開催日： 2011年10月15日(土)
-- 参加募集: http://partake.in/events/ef1d15c9-a9ba-46e4-b94e-e91e6fbd0aa3
+- 参加募集： http://partake.in/events/ef1d15c9-a9ba-46e4-b94e-e91e6fbd0aa3
 
 Googleグループ Tokyo.SciPy
 ==========================

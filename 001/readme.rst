@@ -3,7 +3,7 @@ Tokyo.Scipy #001
 ****************
 
 - 開催日： 2011年8月28日(日)
-- 参加募集: http://partake.in/events/3ab83ec0-e987-4956-b726-faf7777a2c83
+- 参加募集： http://partake.in/events/3ab83ec0-e987-4956-b726-faf7777a2c83
 
 Googleグループ Tokyo.SciPy
 ==========================
