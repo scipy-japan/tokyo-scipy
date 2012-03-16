@@ -15,7 +15,7 @@ OpenOpt の線形計画で圧縮センシング
   easy_install -U FuncDesigner
 
 * 直接線形計画を呼び出すバージョン： ``compressed_sensing.py``
-* `FuncDesigner`を使って呼び出すバージョン： ``compressed_sensing2.py``
+* ``FuncDesigner`` を使って呼び出すバージョン： ``compressed_sensing2.py``
 
 があるので，それぞれ実行してみてください．変換行列を乱数で作っているのでうまくデコードできるときも，そうでないときもあり，何回か実行すると元の入力の復元に失敗します．
 
