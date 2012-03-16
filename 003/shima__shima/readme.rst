@@ -14,12 +14,12 @@ OpenOpt の線形計画で圧縮センシング
   easy_install -U openopt
   easy_install -U FuncDesigner
 
-* 直接線形計画を呼び出すバージョン：``compressed_sensing.py``
-* `FuncDesigner`を使って呼び出すバージョン：``compressed_sensing2.py``
+* 直接線形計画を呼び出すバージョン： ``compressed_sensing.py``
+* `FuncDesigner`を使って呼び出すバージョン： ``compressed_sensing2.py``
 
 があるので，それぞれ実行してみてください．変換行列を乱数で作っているのでうまくデコードできるときも，そうでないときもあり，何回か実行すると元の入力の復元に失敗します．
 
-メインルーチンの観測変数の数 ``n_outpus`` を 2〜5 の範囲で変えてみると，観測数が小さいほど失敗します．5 だともちろん線形方程式として解けるのでいつも正しいですが… (^_^)
+メインルーチンの観測変数の数 ``n_outputs`` を 2〜5 の範囲で変えてみると，観測数が小さいほど失敗します．5 だともちろん線形方程式として解けるのでいつも正しいですが… (^_^)
 
 ``FuncDesigner`` を使うとときどき結果が ``NaN`` になるのは不思議ですね．
 
