@@ -59,8 +59,8 @@ def compressed_sensing2(x1, trans):
     constraints.append(fd.dot(trans, x) == x1)
 
     # inequality constraint: -t < x < t
-    constraints.append(-t < x)
-    constraints.append(x < t)
+    constraints.append(-t <= x)
+    constraints.append(x <= t)
 
     # start_point
     start_point = {x:np.zeros(n_inputs), t:np.zeros(n_inputs)}
@@ -85,10 +85,10 @@ if __name__ == '__main__':
     so so if n_outputs=3, 
     almost perfectly works if n_oupts=4
     """
-    n_outputs = 4
+    n_outputs = 5
 
-    x0 = np.array([1, 0, 1, 0, 0], dtype=np.float) # hidden input vector
-    n_inputs = 5 # change accordingly
+    x0 = np.array([0, 1, 0, 1, 0, 0, 0], dtype=np.float) # hidden input vector
+    n_inputs = 7 # change accordingly
     n_sparse = 2 # change accordingly
 
     # random transformation matrix following normal distribution
@@ -102,8 +102,8 @@ if __name__ == '__main__':
     # decode input vector
     hat1_x0 = compressed_sensing(x1, a)
     hat2_x0 = compressed_sensing2(x1, a)
-    print "orig_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(x0)
-    print "est1_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(hat1_x0)
-    print "est2_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(hat2_x0)
+    print "orig_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(x0)
+    print "est1_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(hat1_x0)
+    print "est2_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(hat2_x0)
     candes_tao = float(n_sparse) * np.log(n_inputs / float(n_sparse))
     print "condition: if O(", candes_tao, ") <", n_outputs

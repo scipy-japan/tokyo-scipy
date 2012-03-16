@@ -82,10 +82,10 @@ if __name__ == '__main__':
     so so if n_outputs=3, 
     almost perfectly works if n_oupts=4
     """
-    n_outputs = 4
+    n_outputs = 5
 
-    x0 = np.array([1, 0, 1, 0, 0], dtype=np.float) # hidden input vector
-    n_inputs = 5 # change accordingly
+    x0 = np.array([0, 1, 0, 1, 0, 0, 0], dtype=np.float) # hidden input vector
+    n_inputs = 7 # change accordingly
     n_sparse = 2 # change accordingly
 
     # random transformation matrix following normal distribution
@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
     # decode input vector
     hat_x0 = compressed_sensing(x1, a)
-    print "org_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(x0)
-    print "est_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(hat_x0)
+    print "org_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(x0)
+    print "est_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(hat_x0)
     candes_tao = float(n_sparse) * np.log(n_inputs / float(n_sparse))
     print "condition: if O(", candes_tao, ") <", n_outputs
