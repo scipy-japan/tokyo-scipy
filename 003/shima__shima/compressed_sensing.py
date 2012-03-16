@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
     # decode input vector
     hat_x0 = compressed_sensing(x1, a)
-    print "org_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(x0)
-    print "est_x0 = [ %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f %5.2f ]" % tuple(hat_x0)
+    print "org_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(x0)
+    print "est_x0 = [ %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f %8.5f ]" % tuple(hat_x0)
     candes_tao = float(n_sparse) * np.log(n_inputs / float(n_sparse))
     print "condition: if O(", candes_tao, ") <", n_outputs
