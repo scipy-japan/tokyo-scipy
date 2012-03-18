@@ -12,3 +12,28 @@ Googleグループ Tokyo.SciPy
 
 Program
 =======
+
+* 招待講演：The history and future of SciPy (Dr. Travis Oliphant, Continuum Analytics)
+
+* OpenOpt の線形計画で圧縮センシング (@shima__shimaさん）
+
+  * 資料： http://www.slideshare.net/shima__shima/tokyoscipy3-compressed-sensing
+  * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/shima__shima
+
+* Geometry Processingで学ぶSparse Matrix (@dukecytoさん)
+
+  * 資料： http://www.slideshare.net/dukecyto/tokyoscipy-learning-sparse-matrix-through-geometry-processing
+
+* NumPyが物足りない人へのCython入門 (@lucidfrontier45さん)
+
+  * 資料： http://www.slideshare.net/lucidfrontier45/cython-intro
+  * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/cython_intro/final
+
+* pandasパッケージで幸せになる ー海外SciPyチュートリアル紹介 (@slaさん)
+
+  * 資料： http://www.slideshare.net/wesm/data-structures-for-statistical-computing-in-python
+  * ソース： http://www.slideshare.net/shoheihido/111015-tokyo-scipy2additionaldemopandas
+
+* ガチャとは心の所作 (@AntiBayesさん)
+
+  * 資料： http://www.slideshare.net/AntiBayesian/ss-12050333
