@@ -1,0 +1,26 @@
+!    -*- f90 -*-
+! Note: the context of this file is case sensitive.
+
+python module matmult_f2py ! in 
+    interface  ! in :matmult_f2py
+        subroutine matmult_f(n,m,l,a,b,c) ! in :matmult_f2py:matmult_f.f90
+            integer, optional,intent(in),check(shape(a,0)==n),depend(a) :: n=shape(a,0)
+            integer, optional,intent(in),check(shape(b,1)==m),depend(b) :: m=shape(b,1)
+            integer, optional,intent(in),check(shape(a,1)==l),depend(a) :: l=shape(a,1)
+            real(kind=8) dimension(n,l),intent(in) :: a
+            real(kind=8) dimension(l,m),intent(in),depend(l) :: b
+            real(kind=8) dimension(n,m),intent(out),depend(n,m) :: c
+        end subroutine matmult_f
+
+        subroutine matmult_c(n,m,l,a,b,c)
+            intent(c) matmult_c
+            intent(c)
+            integer, intent(in) :: n, m, l
+            real(8), intent(in) :: a(n, l), b(l, m)
+            real(8), intent(out) :: c(n, m)
+        end subroutine matmult_c
+    end interface 
+end python module matmult_f2py
+
+! This file was auto-generated with f2py (version:2).
+! See http://cens.ioc.ee/projects/f2py2e/

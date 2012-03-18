@@ -1,0 +1,25 @@
+!    -*- f90 -*-
+! Note: the context of this file is case sensitive.
+
+python module ddot_f2py ! in 
+    interface  ! in :ddot_f2py
+        subroutine ddot_f(a,b,len_a,dot_value) ! in :ddot_f2py:ddot_f.f90
+            real(kind=8) dimension(len_a),intent(in) :: a
+            real(kind=8) dimension(len_a),intent(in),depend(len_a) :: b
+            integer, optional,intent(in),check(len(a)>=len_a),depend(a) :: len_a=len(a)
+            real(kind=8) intent(out) :: dot_value
+        end subroutine ddot_f
+
+        function ddot_c(a,b,len_a) result(dot_value)
+            intent(c) ddot_c
+            intent(c)
+            real(8), intent(in) :: a(len_a)
+            real(8), intent(in) :: b(len_a)
+            integer, intent(in) :: len_a
+            real(8) :: dot_value
+        end function
+    end interface 
+end python module ddot_f2py
+
+! This file was auto-generated with f2py (version:2).
+! See http://cens.ioc.ee/projects/f2py2e/
