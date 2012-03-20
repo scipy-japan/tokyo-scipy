@@ -35,3 +35,5 @@ Program
 * ガチャとは心の所作 (@AntiBayesさん)
 
   * 資料： http://www.slideshare.net/AntiBayesian/ss-12050333
+  * ブログ： http://d.hatena.ne.jp/AntiBayesian/20120318/1332024867
+  * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/AntiBayesian
