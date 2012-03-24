@@ -2,17 +2,20 @@
 Tokyo.Scipy #002
 ****************
 
-- 開催日： 2011年10月15日(土)
-- 参加募集： http://partake.in/events/ef1d15c9-a9ba-46e4-b94e-e91e6fbd0aa3
+基本情報
+========
+
+* 開催日： 2011年10月15日(土)
+* 参加募集： http://partake.in/events/ef1d15c9-a9ba-46e4-b94e-e91e6fbd0aa3
 
 Googleグループ Tokyo.SciPy
-==========================
+--------------------------
 
 * http://groups.google.com/group/tokyo_scipy/browse_thread/thread/3a9baba571c9d0bc
 * http://groups.google.com/group/tokyo_scipy/browse_thread/thread/eac5900b70f62656
 
-Program
-=======
+プログラム
+==========
 
 * NumPy/SciPy体験セクション続編 杜世橋さん （FreeBit、@lucidfrontier45）
 

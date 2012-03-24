@@ -2,18 +2,21 @@
 Tokyo.Scipy #001
 ****************
 
-- 開催日： 2011年8月28日(日)
-- 参加募集： http://partake.in/events/3ab83ec0-e987-4956-b726-faf7777a2c83
+基本情報
+========
+
+* 開催日： 2011年8月28日(日)
+* 参加募集： http://partake.in/events/3ab83ec0-e987-4956-b726-faf7777a2c83
 
 Googleグループ Tokyo.SciPy
-==========================
+--------------------------
 
 * http://groups.google.com/group/tokyo_scipy/browse_thread/thread/7a4c7e831d83655c
 * http://groups.google.com/group/tokyo_scipy/browse_thread/thread/418f7b813cf34ada
 * http://groups.google.com/group/tokyo_scipy/browse_thread/thread/45ca480a289a89e
 
-Program
-=======
+プログラム
+==========
 
 * NumPy/SciPy体験セッション" by 杜世橋（東工大、@lucidfrontier45）
 
