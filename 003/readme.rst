@@ -8,10 +8,17 @@ Tokyo.Scipy #003
 * `Googleグループ Tokyo.SciPy <http://groups.google.com/group/tokyo_scipy/browse_thread/thread/1998d4cc2dc45a72>`_
 * `Toggeterまとめ <http://togetter.com/li/275094>`_
 
+感想など
+--------
+
+* `Tokyo.SciPy#3を開催しました @ 随所作主録 <http://www.hidotech.com/blog/2012/03/18/tokyo-scipy3/>`_
+
 Program
 =======
 
 * 招待講演：The history and future of SciPy (Dr. Travis Oliphant, Continuum Analytics)
+
+  * 資料： http://www.slideshare.net/shoheihido/sci-pyhistory
 
 * OpenOpt の線形計画で圧縮センシング (@shima__shimaさん）
 
