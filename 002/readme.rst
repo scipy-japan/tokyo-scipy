@@ -32,3 +32,8 @@ Googleグループ Tokyo.SciPy
 * Callable Array @tyatsutaさん
 
   * 資料： http://www.slideshare.net/yatsuta/tokyo-scipy2
+
+感想など
+========
+
+* `「数式を numpy に落とし込むコツ」を HMM に当てはめてみる @ Mi manca qualche giovedì? <http://d.hatena.ne.jp/n_shuyo/20111104/hmm>`_

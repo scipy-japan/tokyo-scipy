@@ -47,3 +47,4 @@ Tokyo.Scipy #003
 ========
 
 * `Tokyo.SciPy#3を開催しました @ 随所作主録 <http://www.hidotech.com/blog/2012/03/18/tokyo-scipy3/>`_
+* `User Stories @ NumFOCUS <http://numfocus.org/?page_id=25>`_

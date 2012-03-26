@@ -49,3 +49,9 @@ Googleグループ Tokyo.SciPy
 
   * @AntiBayesさん資料： http://www.slideshare.net/AntiBayesian/python-9038950
   * @_kohtaさん資料： http://www.slideshare.net/kohta/particle-filter-tracking-in-python
+
+感想など
+========
+
+* `Tokyo.SciPyに参加しました @ nokunoの日記 <http://d.hatena.ne.jp/nokuno/20110829>`_
+* `TokyoScipyに参加した話 @ OKEREKE-RL <http://room6933.com/blog/2011/08/30/tokyoscipy_attend/>`_
