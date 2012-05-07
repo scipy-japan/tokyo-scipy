@@ -8,7 +8,9 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 * 開催日： 2012年6月16日(土)
 * 開催場所： `京都大学学術情報メディアセンター南館 <http://www.media.kyoto-u.ac.jp/ja/access/index.html#s_bldg>`_
 * `Googleグループ <https://groups.google.com/d/topic/tokyo_scipy/0-nQzIxEJi4/discussion>`_
+
   * `発表募集 <https://groups.google.com/d/msg/tokyo_scipy/0-nQzIxEJi4/_FnJopY3UiMJ>`_
+
 * `参加募集 @ Partake <http://bit.ly/IGafSK>`_
 
 .. * `Toggeterまとめ <http://togetter.com/li/275094>`_
