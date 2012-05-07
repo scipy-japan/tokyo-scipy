@@ -7,10 +7,9 @@ Tokyo.Scipy は科学技術計算で Python を利用するための勉強会で
 関連サイト
 ==========
 
-* Google Groups : http://groups.google.com/group/tokyo_scipy
+* Google Groups : https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy
 * Slideshare : http://www.slideshare.net/tag/tokyoscipy
 * GitHub： https://github.com/tokyo-scipy/archive
-* `NumPy / SciPy インストール資料 <http://lucidfrontier45.wordpress.com/2011/07/21/install_numpy/>`_
 
 科学技術計算関連の Python 入門用資料
 ====================================
@@ -30,6 +29,7 @@ Tokyo.Scipy は科学技術計算で Python を利用するための勉強会で
 チュートリアル資料
 ------------------
 
+* `NumPy / SciPy インストール資料 <http://lucidfrontier45.wordpress.com/2011/07/21/install_numpy/>`_
 * `科学技術計算のために Python を始めよう <http://www.ike-dyn.ritsumei.ac.jp/~uchida/scipy-lecture-notes/>`_ （ `原文：Scipy Lecture Notes <http://scipy-lectures.github.com/>`_ ）
 * `機械学習の Python との出会い <http://www.kamishima.net/mlmpyja/>`_
 * 朱鷺の杜Wiki： `NumPy / SciPy <http://ibisforest.org/index.php?python%2Fnumpy>`_ と `Python <http://ibisforest.org/index.php?python>`_

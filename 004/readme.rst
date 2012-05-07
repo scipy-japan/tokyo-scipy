@@ -5,15 +5,23 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 基本情報
 ========
 
-* 開催日： 2012年6月16日(土) or 18(月)
-* `発表募集 <https://groups.google.com/forum/#!topic/tokyo_scipy/0-nQzIxEJi4>`_
+* 開催日： 2012年6月16日(土)
+* 開催場所： `京都大学学術情報メディアセンター南館 <http://www.media.kyoto-u.ac.jp/ja/access/index.html#s_bldg>`_
+* `Googleグループ <https://groups.google.com/d/topic/tokyo_scipy/0-nQzIxEJi4/discussion>`_
+  * `発表募集 <https://groups.google.com/d/msg/tokyo_scipy/0-nQzIxEJi4/_FnJopY3UiMJ>`_
+* `参加募集 @ Partake <http://bit.ly/IGafSK>`_
 
 .. * `Toggeterまとめ <http://togetter.com/li/275094>`_
 
 プログラム
 ==========
 
-未定
+発表者一覧：
+
+* 画像処理でのPythonの利用 (仮題) (@yasutomo57jp さん)
+* 機械学習パッケージ scikit-learn (仮題) (@mathieuja さん)
+* nltk など自然言語処理でのPython利用 (仮題) (@jhirwin さん)
+* 科学技術計算でのPython利用のチュートリアル (仮題) (@shima__shima さん)
 
 ..
     * 招待講演：The history and future of SciPy (Dr. Travis Oliphant, Continuum Analytics)
