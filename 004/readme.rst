@@ -23,6 +23,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 * 画像処理でのPythonの利用 (仮題) (@yasutomo57jp さん)
 * 機械学習パッケージ scikit-learn (仮題) (@mathieuja さん)
 * nltk など自然言語処理でのPython利用 (仮題) (@jhirwin さん)
+* scipy の疎行列についてのLT (仮題) (@taka84u9 さん)
 * 科学技術計算でのPython利用のチュートリアル (仮題) (@shima__shima さん)
 
 ..
