@@ -24,7 +24,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 * 機械学習パッケージ scikit-learn (@mathieuja さん)
 * nltk など自然言語処理でのPython利用 (@jhirwin さん)
 * scipy の疎行列についてのLT (@taka84u9 さん)
-* PyOpenCL を用いたGPGPUの利用 (@_likr さん)
+* PyOpenCLによるGPGPU入門 (@_likr さん)
 * 科学技術計算でのPython利用のチュートリアル (@shima__shima さん)
 
 ..
