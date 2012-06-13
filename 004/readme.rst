@@ -18,7 +18,23 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 プログラム
 ==========
 
-発表者一覧：
+=========== ================================================= ==================
+時刻        題名                                              発表者
+=========== ================================================= ==================
+13:00-13:15 オープニング
+13:15-14:15 『機械学習のPythonとの出会い：単純ベイズ 基礎編』 @shima__shima
+14:15-14:30 休憩
+14:30-15:00 『機械学習パッケージ scikit-learn』               @mathieuja さん
+15:00-15:30 『画像処理でのPythonの利用』                      @yasutomo57jp さん
+15:30-16:15 休憩
+16:15-16:45 『nltk など自然言語処理でのPython利用』           @jhirwin さん
+16:45-17:15 『PyOpenCL を用いたGPGPUの利用』                  @_likr さん
+17:15-17:30 『scipy の疎行列について』                        @taka84u9 さん
+17:30-       クロージング
+=========== ================================================= ==================
+
+資料
+====
 
 * 画像処理でのPythonの利用 (@yasutomo57jp さん)
 * 機械学習パッケージ scikit-learn (@mathieuja さん)
@@ -26,36 +42,6 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 * scipy の疎行列についてのLT (@taka84u9 さん)
 * PyOpenCLによるGPGPU入門 (@_likr さん)
 * 科学技術計算でのPython利用のチュートリアル (@shima__shima さん)
-
-..
-    * 招待講演：The history and future of SciPy (Dr. Travis Oliphant, Continuum Analytics)
-
-      * 資料： http://www.slideshare.net/shoheihido/sci-pyhistory
-
-    * OpenOpt の線形計画で圧縮センシング (@shima__shimaさん）
-
-      * 資料： http://www.slideshare.net/shima__shima/tokyoscipy3-compressed-sensing
-      * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/shima__shima
-
-    * Geometry Processingで学ぶSparse Matrix (@dukecytoさん)
-
-      * 資料： http://www.slideshare.net/dukecyto/tokyoscipy-learning-sparse-matrix-through-geometry-processing
-
-    * NumPyが物足りない人へのCython入門 (@lucidfrontier45さん)
-
-      * 資料： http://www.slideshare.net/lucidfrontier45/cython-intro
-      * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/cython_intro/final
-
-    * pandasパッケージで幸せになる ー海外SciPyチュートリアル紹介 (@slaさん)
-
-      * 資料： http://www.slideshare.net/wesm/data-structures-for-statistical-computing-in-python
-      * ソース： http://www.slideshare.net/shoheihido/111015-tokyo-scipy2additionaldemopandas
-
-    * ガチャとは心の所作 (@AntiBayesさん)
-
-      * 資料： http://www.slideshare.net/AntiBayesian/ss-12050333
-      * ブログ： http://d.hatena.ne.jp/AntiBayesian/20120318/1332024867
-      * ソース： https://github.com/tokyo-scipy/archive/tree/master/003/AntiBayesian
 
 感想など
 ========
