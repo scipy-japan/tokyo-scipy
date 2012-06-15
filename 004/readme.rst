@@ -30,7 +30,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 16:15-16:45 『nltk など自然言語処理でのPython利用』           @jhirwin さん
 16:45-17:15 『PyOpenCL を用いたGPGPUの利用』                  @_likr さん
 17:15-17:30 『scipy の疎行列について』                        @taka84u9 さん
-17:30-17:45 『音声認識研究におけるPython』                    久保さん
+17:30-17:45 『音声認識研究におけるPython』                    @@yotarokubo さん
 17:30-       クロージング
 =========== ================================================= ==================
 
@@ -43,7 +43,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 * nltk など自然言語処理でのPython利用 (@jhirwin さん)
 * PyOpenCLによるGPGPU入門 (@_likr さん)
 * scipy の疎行列についてのLT (@taka84u9 さん)
-* 音声認識研究におけるPython (久保さん)
+* 音声認識研究におけるPython (@@yotarokubo さん)
 
 感想など
 ========
