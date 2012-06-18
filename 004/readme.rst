@@ -43,6 +43,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 
 * 画像処理でのPythonの利用 (@yasutomo57jp さん)
 
+  * 資料 : http://www.slideshare.net/yasutomo57jp/pythona
   * ソース : https://github.com/tokyo-scipy/archive/tree/master/004/yasutomo57jp
 
 * nltk など自然言語処理でのPython利用 (@jhirwin さん)
