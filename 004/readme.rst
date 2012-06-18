@@ -48,6 +48,8 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 
 * nltk など自然言語処理でのPython利用 (@jhirwin さん)
 
+  * 資料 : http://www.slideshare.net/cordarei/nltk-python
+
 * PyOpenCLによるGPGPU入門 (@_likr さん)
 
   * 資料 : http://www.slideshare.net/likr/pyopenclgpgpu-tokyoscipy4
