@@ -39,7 +39,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 
   * 資料 : http://www.slideshare.net/shima__shima/python-13349162
 
-* 機械学習ライブラリscikit-learn入門 scikit-learn (@mathieuja さん)
+* 機械学習ライブラリscikit-learn入門 (@mathieuja さん)
 
   * 資料 : http://www.mblondel.org/files/presentation_sklearn.pdf
 
