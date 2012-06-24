@@ -22,7 +22,7 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 13:00-13:15 オープニング
 13:15-14:15 『機械学習のPythonとの出会い：単純ベイズ 基礎編』 @shima__shima
 14:15-14:30 休憩
-14:30-15:00 『機械学習パッケージ scikit-learn』               @mathieuja さん
+14:30-15:00 『機械学習ライブラリscikit-learn入門』            @mathieuja さん
 15:00-15:30 『画像処理でのPythonの利用』                      @yasutomo57jp さん
 15:30-16:15 休憩
 16:15-16:45 『nltk など自然言語処理でのPython利用』           @jhirwin さん
@@ -39,7 +39,9 @@ Tokyo.Scipy #004 出張版 (aka Kan.SciPy #001)
 
   * 資料 : http://www.slideshare.net/shima__shima/python-13349162
 
-* 機械学習パッケージ scikit-learn (@mathieuja さん)
+* 機械学習ライブラリscikit-learn入門 scikit-learn (@mathieuja さん)
+
+  * 資料 : http://www.mblondel.org/files/presentation_sklearn.pdf
 
 * 画像処理でのPythonの利用 (@yasutomo57jp さん)
 
