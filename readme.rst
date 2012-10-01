@@ -11,6 +11,11 @@ Tokyo.Scipy は科学技術計算で Python を利用するための勉強会で
 * Slideshare : http://www.slideshare.net/tag/tokyoscipy
 * GitHub： https://github.com/tokyo-scipy/archive
 
+科学技術計算での Python 利用に関するその他のグループ
+----------------------------------------------------
+
+* `Science with Python <https://groups.google.com/forum/?fromgroups#!forum/science-with-python>`_ : 科学分野での Python 利用について
+
 科学技術計算関連の Python 入門用資料
 ====================================
 
