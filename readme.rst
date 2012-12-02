@@ -11,8 +11,8 @@ Tokyo.Scipy は科学技術計算で Python を利用するための勉強会で
 * Slideshare : http://www.slideshare.net/tag/tokyoscipy
 * GitHub： https://github.com/tokyo-scipy/archive
 
-科学技術計算での Python 利用に関するその他のグループ
-----------------------------------------------------
+科学技術計算での Python 利用に関連する活動
+------------------------------------------
 
 * `Science with Python <https://groups.google.com/forum/?fromgroups#!forum/science-with-python>`_ : 科学分野での Python 利用について
 
@@ -33,12 +33,21 @@ Tokyo.Scipy は科学技術計算で Python を利用するための勉強会で
 
 チュートリアル資料
 ------------------
-
-* `NumPy / SciPy インストール資料 <http://lucidfrontier45.wordpress.com/2011/07/21/install_numpy/>`_
 * `科学技術計算のために Python を始めよう <http://www.ike-dyn.ritsumei.ac.jp/~uchida/scipy-lecture-notes/>`_ （ `原文：Scipy Lecture Notes <http://scipy-lectures.github.com/>`_ ）
 * `機械学習の Python との出会い <http://www.kamishima.net/mlmpyja/>`_
 * 朱鷺の杜Wiki： `NumPy / SciPy <http://ibisforest.org/index.php?python%2Fnumpy>`_ と `Python <http://ibisforest.org/index.php?python>`_
 * `機械学習 はじめよう @ 技術評論社 <http://gihyo.jp/dev/serial/01/machine-learning>`_
+
+NumPy / SciPy のインストール
+----------------------------
+
+NumPy / SciPy は，関連するライブラリが多いため pip や easy_install でインストールするには手間がかかります．以下のようなパッケージの利用を強くお薦めします．
+
+* `Enthought Python Distribution <http://www.enthought.com/>`_ (フリー版：Win32bit, Mac32bit, Linux64/32bit；有料版：Win64bit，Mac64bit，Solaris32/64bitも含む）
+* `pythonxy (Win32bit) <http://code.google.com/p/pythonxy/>`_ (フリー)
+* `Scipy Superpack for Mac OS X <http://fonnesbeck.github.com/ScipySuperpack/>`_ (Mac用; フリー)
+* Mac/Linux/BSD は yum / apt / ports / brew などのパッケージ管理ソフトが容易
+* `Windowsでの公式パッケージからのインストール <http://lucidfrontier45.wordpress.com/2011/07/21/install_numpy/>`_
 
 勉強会の概要
 ============
@@ -63,35 +72,6 @@ NumPy / SciPy について，なるほどこういうことができるのか」
 
 * 数値計算、確率、統計の基礎 
 * Pythonの基礎（ `事前準備−Python入門 <https://groups.google.com/forum/?fromgroups&hl=ja#!topic/tokyo_scipy/BFykgKKJqJ4>`_ ）
-
-発表の種類
-==========
-
-一般発表
---------
-
-時間：30分 or 60分
-
-* 入門編 ：NumPy / SciPy に関するチュートリアル
-* 実践編 ：科学技術計算で Python 関連で，これら活用したプロジェクトの紹介，自作ツールの紹介，自分の研究・業務に応用した体験談
-* 周辺ツール解説 ：Python に関する各種科学技術計算パッケージ (matplotlib, scikit-learn, nltk, PyMC など) の紹介
-* 実演ハンズオン ：参加者持参のPCでの実演により，参加者に体験してもらうインタラクティブなセッション
-* チュートリアル紹介 ： `Python の科学技術計算関連の国際会議 SciPy や Euro Scipy  <http://conference.scipy.org/>`_ などのチュートリアル資料を紹介
-
-ライトニングトーク
-------------------
-
-時間：15分
-
-* Python で科学技術計算をした経験談，Tips 紹介，簡単なデモなどの気軽な紹介や，自己紹介・売り込みも
-
-コーディングディスカッション
-----------------------------
-
-時間：30分 or 60分
-
-* 参加者の事前アンケート結果の紹介，飛び入りソースコード公開などを交えながら，よりよい NumPy / SciPy コーディングについて参加者で議論するセッションです
-* 議論のテーマと，司会の提供者を募集します
 
 Tokyo.SciPy発起人
 =================
