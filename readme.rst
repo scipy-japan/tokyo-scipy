@@ -73,8 +73,8 @@ NumPy / SciPy について，なるほどこういうことができるのか」
 * 数値計算、確率、統計の基礎 
 * Pythonの基礎（ `事前準備−Python入門 <https://groups.google.com/forum/?fromgroups&hl=ja#!topic/tokyo_scipy/BFykgKKJqJ4>`_ ）
 
-Tokyo.SciPy発起人
-=================
+Tokyo.SciPy 幹事
+================
 
 * 神嶌敏弘（産総研 @shima__shima ）
 * 瀬々潤（東工大 @sesejun ）

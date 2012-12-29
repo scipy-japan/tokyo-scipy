@@ -6,10 +6,6 @@ Tokyo.Scipy #005
 ========
 
 * 日時 : 2013年1月26日（土）
-* 会場 : `サイバーエージェント社 渋谷プライムプラザ 4階セミナールーム <http://www.cyberagent.co.jp/company/access/prime_bldg.html>`_
+* 会場 : `株式会社サイバーエージェント 渋谷プライムプラザ 4階セミナールーム <http://www.cyberagent.co.jp/company/access/prime_bldg.html>`_
 * `Googleグループ <hhttps://groups.google.com/d/topic/tokyo_scipy/nncu4Z3-OdA/discussion>`_
-
-発表募集中です． `Tokyo.Scipy #5 発表募集 <https://groups.google.com/d/msg/tokyo_scipy/nncu4Z3-OdA/wq25Z3RSLGAJ>`_
-
-
 .. * `参加募集 @ Partake <http://bit.ly/IGafSK>`_
