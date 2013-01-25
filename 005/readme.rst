@@ -30,3 +30,11 @@ Tokyo.Scipy #005
 17:30-17:45 OpenCV と scikit-learnで顔認識                    杜 世橋 @lucidfrontier45
 17:45-      クロージング
 =========== ================================================= ========================
+
+資料
+====
+
+* レプリカ交換モンテカルロ法で乱数の生成 ( @teramonagi )
+
+  * 資料 : http://www.slideshare.net/teramonagi/tokyo-scipy5-20130126
+  * コード : https://github.com/tokyo-scipy/archive/tree/master/005/teramonagi/
