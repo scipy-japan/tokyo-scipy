@@ -34,7 +34,28 @@ Tokyo.Scipy #005
 資料
 ====
 
+* 計算ソフト PythonSf ( 小林 憲次 )
+
+  * ホームページ : http://www.nasuinfo.or.jp/FreeSpace/kenji/
+  * 紹介ビデオ : `1 <http://www.youtube.com/watch?v=rdo-46WafyQ>`_ `2 <http://www.youtube.com/watch?v=O_0gW0ti0Ek>`_ `3 <http://www.youtube.com/watch?v=s4FwqLcmHWM>`_ 
+
+* Wrapping a C++ library with Cython ( @fuzzysphere )
+
+  * 資料 : http://www.slideshare.net/fuzzysphere/wrapping-a-c-library-with-cython
+
 * レプリカ交換モンテカルロ法で乱数の生成 ( @teramonagi )
 
   * 資料 : http://www.slideshare.net/teramonagi/tokyo-scipy5-20130126
   * コード : https://github.com/tokyo-scipy/archive/tree/master/005/teramonagi/
+
+* OpenCV と scikit-learnで顔認識 ( 杜 世橋 @lucidfrontier45 )
+
+  * 資料 : http://www.slideshare.net/lucidfrontier45/face-recognition-with-opencv-and-scikitlearn
+  * コード : https://github.com/lucidfrontier45/PyFace
+
+感想など
+========
+
+参加されたかたは，ブログ記事などをよろしくお願いします．
+
+* `Python始めました <http://www.slideshare.net/Hiro_macchan/tokyo-r28ltss>`_ @Hiro_macchan
