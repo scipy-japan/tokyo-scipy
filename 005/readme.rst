@@ -58,4 +58,5 @@ Tokyo.Scipy #005
 
 参加されたかたは，ブログ記事などをよろしくお願いします．
 
+* `第5回Tokyo.SciPyが開催されました @ 随所作主録 <http://www.hidotech.com/blog/2013/01/30/tokyoscipy5/>`_
 * `Python始めました <http://www.slideshare.net/Hiro_macchan/tokyo-r28ltss>`_ @Hiro_macchan
