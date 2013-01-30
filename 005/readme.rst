@@ -43,6 +43,10 @@ Tokyo.Scipy #005
 
   * 資料 : http://www.slideshare.net/fuzzysphere/wrapping-a-c-library-with-cython
 
+* データ分析コンペサイト Kaggle と scikit-learn ( 柏野 雄太 @yutakashino )
+
+  * 資料 : http://euler.bakfoo.com/public/scipytokyo/index.html#/start
+
 * レプリカ交換モンテカルロ法で乱数の生成 ( @teramonagi )
 
   * 資料 : http://www.slideshare.net/teramonagi/tokyo-scipy5-20130126
