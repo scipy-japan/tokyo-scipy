@@ -39,13 +39,13 @@ Tokyo.Scipy #005
   * ホームページ : http://www.nasuinfo.or.jp/FreeSpace/kenji/
   * 紹介ビデオ : `1 <http://www.youtube.com/watch?v=rdo-46WafyQ>`_ `2 <http://www.youtube.com/watch?v=O_0gW0ti0Ek>`_ `3 <http://www.youtube.com/watch?v=s4FwqLcmHWM>`_ 
 
-* Wrapping a C++ library with Cython ( @fuzzysphere )
-
-  * 資料 : http://www.slideshare.net/fuzzysphere/wrapping-a-c-library-with-cython
-
 * データ分析コンペサイト Kaggle と scikit-learn ( 柏野 雄太 @yutakashino )
 
   * 資料 : http://euler.bakfoo.com/public/scipytokyo/index.html#/start
+
+* Wrapping a C++ library with Cython ( @fuzzysphere )
+
+  * 資料 : http://www.slideshare.net/fuzzysphere/wrapping-a-c-library-with-cython
 
 * レプリカ交換モンテカルロ法で乱数の生成 ( @teramonagi )
 
