@@ -43,8 +43,8 @@ NumPy / SciPy のインストール
 
 NumPy / SciPy は，関連するライブラリが多いため pip や easy_install でインストールするには手間がかかります．以下のようなパッケージの利用を強くお薦めします．
 
-* `Enthought Python Canopy <https://www.enthought.com/products/canopy/>`_ (フリー版：Win32, Mac32, Linux64/32；有料版：Win64bit，Mac64，Solaris32/64も含む）
-* `Anaconda <https://store.continuum.io/>`_ （Mac64，Windows32/64，Linux32/64，フリーソフト+機能制限版の自社製品のフリー版と，自社製品を含む有料版）
+* `Enthought Python Canopy <https://www.enthought.com/products/canopy/>`_ (フリー版は使えるパッケージ数が50種に対し，有料版は150種ある）
+* `Anaconda <https://store.continuum.io/>`_ （フリーソフト+機能制限版の自社製品のフリー版と，自社製品を含む有料版）
 * `pythonxy (Win32bit) <http://code.google.com/p/pythonxy/>`_ (フリー)
 * `Scipy Superpack for Mac OS X <http://fonnesbeck.github.com/ScipySuperpack/>`_ (Mac用; フリー)
 * Mac/Linux/BSD は yum / apt / ports / brew などのパッケージ管理ソフトが容易
