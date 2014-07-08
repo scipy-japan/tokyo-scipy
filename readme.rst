@@ -77,7 +77,7 @@ NumPy / SciPy について，なるほどこういうことができるのか」
 Tokyo.SciPy 幹事
 ================
 
-* 神嶌敏弘（産総研 @shima__shima ）
-* 瀬々潤（東工大 @sesejun ）
-* 比戸将平（Preferred Infrastructure @sla ）
-* 杜世橋（FreeBit @lucidfrontier45 ）
+* 柏野雄太 @yutakashino
+* 神嶌敏弘 @shima__shima
+* 杜世橋 @lucidfrontier45
+* 比戸将平 @sla
