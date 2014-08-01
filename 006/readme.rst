@@ -40,5 +40,7 @@ Tokyo.Scipy 006
     * PyMCがあれば，ベイズ推定でもう泣いたりなんかしない (神嶌敏弘 @shima__shima) 45分
 
         * ベイズ推定の基本とPyMCによる簡単な実装例
+        * 発表資料： http://www.slideshare.net/shima__shima/2014-mtokyoscipy6
+        * サンプル： https://github.com/tokyo-scipy/archive/tree/master/006/shima__shima
 
 * 17:00-17:10 クロージング
