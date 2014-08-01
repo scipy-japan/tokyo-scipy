@@ -25,9 +25,10 @@ Tokyo.Scipy 006
 
 * 15:00-16:00 セッション2
 
-    * 機械学習などの数値計算の実験結果を再現可能とするための管理方法について (@fuzzysphere) 30分
+    * Making computations reproducible (@fuzzysphere) 30分
 
-        * いくかの方法とツールを紹介します。特にコード・データ・環境のバージョン管理や、ワークフローの制御などに重点を置きます。
+        * 機械学習などの数値計算の実験結果を再現可能とするための管理方法について、いくつかのルールとツールを紹介します。 特にコード・データ・環境のバージョン管理や、ワークフローの制御などに焦点を当てます。
+        * 発表資料： http://www.slideshare.net/fuzzysphere/making-computations-reproducible
 
     * IPython Notebookで始めるデータ分析と可視化 (杜世橋 @lucidfrontier45) 30分
 
