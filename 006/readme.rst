@@ -8,6 +8,7 @@ Tokyo.Scipy 006
 * 会場 : `フューチャーアーキテクト株式会社 <https://sites.google.com/site/futurestudyfree/information>`_
 * `Googleグループ <https://groups.google.com/d/msg/tokyo_scipy/mGfp0OTW3Is/G9jhb_Kri_sJ>`_ (アナウンス)
 * `参加募集 @ Partake <http://partake.in/events/e4e4649d-e06f-4dbe-a16c-46350711605b>`_
+* 参加者数：59名
 
 プログラム
 ----------
@@ -31,7 +32,6 @@ Tokyo.Scipy 006
         * 発表資料： http://www.slideshare.net/fuzzysphere/making-computations-reproducible
 
     * IPython Notebookで始めるデータ分析と可視化 (杜世橋 @lucidfrontier45) 30分
-
 
 * 16:00-16:15 休憩
 
