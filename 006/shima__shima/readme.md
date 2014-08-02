@@ -4,7 +4,7 @@ PyMCがあれば，ベイズ推定でもう泣いたりなんかしない
 * 発表資料： <http://www.slideshare.net/shima__shima/2014-mtokyoscipy6>
 * nbviewerでのノートブックの閲覧
 	* <http://nbviewer.ipython.org/github/tokyo-scipy/archive/blob/master/006/shima__shima/SimpleGaussian.ipynb>
-	* <nbviewer.ipython.org/github/tokyo-scipy/archive/blob/master/006/shima__shima/NaiveBayes.ipynb>
+	* <http://nbviewer.ipython.org/github/tokyo-scipy/archive/blob/master/006/shima__shima/NaiveBayes.ipynb>
 * 関連サイトへのリンク
 	* [Frequentism and Bayesianism: What's the Big Deal? (SciPy 2014)](https://speakerdeck.com/jakevdp/frequentism-and-bayesianism-whats-the-big-deal-scipy-2014)
 		* 頻度主義とベイズ主義の違い：局外パラメータと区間推定での相違点の例
