@@ -7,5 +7,6 @@ Copy the URL of .ipynb to the text box in the top page of [nbviewer](http://nbvi
 2. In the `vagrant` directory which contains the `Vagrantfile`, do `vagrant up`.
 3. Ta-da!
 
-
+#How to see the slides?
+Just open the html file in the `slides` directory in you browser.
 
