@@ -33,6 +33,9 @@ Tokyo.Scipy 006
 
     * IPython Notebookで始めるデータ分析と可視化 (杜世橋 @lucidfrontier45) 30分
 
+        * 発表資料： http://nbviewer.ipython.org/github/lucidfrontier45/data_analysis_with_python/blob/master/data_analysis_with_ipython_notebook.ipynb
+        * 関連資料： https://github.com/tokyo-scipy/archive/tree/master/006/lucidfrontier45
+
 * 16:00-16:15 休憩
 
 * 16:15-17:00 セッション3
