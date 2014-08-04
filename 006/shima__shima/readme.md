@@ -16,4 +16,5 @@ PyMCがあれば，ベイズ推定でもう泣いたりなんかしない
 	* PyMC関連資料
 		* 関連ブログ：[Healthy Algorithms](http://healthyalgorithms.com/)
 		* 関連ブログ：[While My MCMC Gently Samples](http://twiecki.github.io/)
+		* 日本語資料：[PyMC3でMCMC入門(1)](http://breakbee.hatenablog.jp/entry/2014/08/04/031342) ← 私のサンプルを PyMC3 対応版にして下さいました．
 		* 日本語資料：[PyMCによる確率的プログラミングとMCMCとTheano](http://www.slideshare.net/xiangze/pymc-mcmc)
