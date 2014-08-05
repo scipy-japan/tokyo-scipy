@@ -47,3 +47,9 @@ Tokyo.Scipy 006
         * サンプル： https://github.com/tokyo-scipy/archive/tree/master/006/shima__shima
 
 * 17:00-17:10 クロージング
+
+感想など
+--------
+
+- `PyMC3でMCMC入門(1) <http://breakbee.hatenablog.jp/entry/2014/08/04/031342>`_ @ old school magic
+- `Tokyo.Scipyに参加してきた <http://r9y9.github.io/blog/2014/08/05/tokyo-scipy/>`_ @ LESS IS MORE
