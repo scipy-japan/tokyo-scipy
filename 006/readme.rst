@@ -20,8 +20,8 @@ Tokyo.Scipy 006
 
     * 初心者が陥るN個の罠。いざ進めNumpy/Scipyの道 (@nezuq) 15分
 
-        * 発表資料： http://www.slideshare.net/nezuQ/nnumpy-scipy
         * 完全初心者な自分がNumpy/Scipyを触った時に障害となるポイントを紹介できればと思います。そういうポイントが既知になれば、Numpy/Scipyユーザの増加につながると考えます。
+        * 発表資料： http://www.slideshare.net/nezuQ/nnumpy-scipy
 
 * 14:10-15:00 休憩 & 懇談
 
