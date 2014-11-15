@@ -16,13 +16,11 @@ Tokyo.SciPy の資料
 * `ホームページ@GitHub <https://github.com/scipy-japan/tokyo-scipy>`_
 * `Slideshare <http://www.slideshare.net/tag/tokyoscipy>`_
 
-SciPyJapan
-----------
+SciPy Japan
+-----------
 
-Pythonによるデータ分析の日本国内のコミュニティ
-
-* `ホームページ <https://github.com/scipy-japan/welcome>`_
 * `Googleグループ <https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy>`_
+* `ホームページ <https://github.com/scipy-japan/welcome>`_
 
 目的
 ====
