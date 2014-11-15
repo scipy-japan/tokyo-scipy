@@ -1,58 +1,25 @@
-***********
+![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/tokyo-scipy/master/tokyo-scipy-logo.png)
+
 Tokyo.SciPy
-***********
+===========
 
 Tokyo.Scipy は科学技術計算で Python を利用するための勉強会です．
 
 関連サイト
-==========
-
-* Google Groups : https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy
-* Slideshare : http://www.slideshare.net/tag/tokyoscipy
-* GitHub： https://github.com/tokyo-scipy/archive
-
-Python を用いたデータ分析関連の活動
------------------------------------
-
-* `PyData Tokyo <http://pydatatokyo.connpass.com/>`_ : データ分析関連の勉強会 
-* `Science with Python <https://groups.google.com/forum/?fromgroups#!forum/science-with-python>`_ : 科学分野での Python 利用について
-
-科学技術計算関連の Python 入門用資料
-====================================
-
-公式サイト
 ----------
 
-`NumPy <http://numpy.scipy.org//>`_ と `SciPy <http://www.scipy.org/>`_
+### SciPyJapan
 
-* `NumPy/SciPy Cookbook <http://www.scipy.org/Cookbook>`_
-* `Numpy Example List <http://www.scipy.org/Numpy_Example_List>`_
-* `Tentative Numpy Tutorial <http://www.scipy.org/Tentative_NumPy_Tutorial>`_
-* `Numpy for Matlab Users <http://www.scipy.org/NumPy_for_Matlab_Users>`_
-* `A beginners guide to using Python for performance computing <http://www.scipy.org/PerformancePython>`_
-* `Python for Scientific Computing Conference <http://conference.scipy.org/>`_
+Pythonによるデータ分析の日本国内のコミュニティ
 
-チュートリアル資料
-------------------
-* `科学技術計算のために Python を始めよう <http://www.ike-dyn.ritsumei.ac.jp/~uchida/scipy-lecture-notes/>`_ （ `原文：Scipy Lecture Notes <http://scipy-lectures.github.io/>`_ ）
-* `機械学習の Python との出会い <http://www.kamishima.net/mlmpyja/>`_
-* 朱鷺の杜Wiki： `NumPy / SciPy <http://ibisforest.org/index.php?python%2Fnumpy>`_ と `Python <http://ibisforest.org/index.php?python>`_
-* `機械学習 はじめよう @ 技術評論社 <http://gihyo.jp/dev/serial/01/machine-learning>`_
+* [ホームページ](https://github.com/scipy-japan/welcome)
+* [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy)：
 
-NumPy / SciPy のインストール
-----------------------------
 
-NumPy / SciPy は，関連するライブラリが多いため pip や easy_install でインストールするには手間がかかります．以下のようなパッケージの利用を強くお薦めします．
+Tokyo.SciPy の資料
 
-* `Enthought Python Canopy <https://www.enthought.com/products/canopy/>`_ (フリー版は使えるパッケージ数が50種に対し，有料版は150種ある）
-* `Anaconda <https://store.continuum.io/>`_ （フリーソフト+機能制限版の自社製品のフリー版と，自社製品を含む有料版）
-* `pythonxy (Win32bit) <http://code.google.com/p/pythonxy/>`_ (フリー)
-* `Scipy Superpack for Mac OS X <http://fonnesbeck.github.com/ScipySuperpack/>`_ (Mac用; フリー)
-* Mac/Linux/BSD は yum / apt / ports / brew などのパッケージ管理ソフトが容易
-* `Windowsでの公式パッケージからのインストール <http://lucidfrontier45.wordpress.com/2011/07/21/install_numpy/>`_
-
-勉強会の概要
-============
+* [ホームページ@GitHub](https://github.com/scipy-japan/tokyo-scipy)
+* [Slideshare](http://www.slideshare.net/tag/tokyoscipy)
 
 目的
 ----
@@ -73,7 +40,6 @@ NumPy / SciPy について，なるほどこういうことができるのか」
 --------
 
 * 数値計算、確率、統計の基礎 
-* Pythonの基礎（ `事前準備−Python入門 <https://groups.google.com/forum/?fromgroups&hl=ja#!topic/tokyo_scipy/BFykgKKJqJ4>`_ ）
 
 Tokyo.SciPy 幹事
 ================
