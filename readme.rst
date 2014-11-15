@@ -1,33 +1,36 @@
-![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/tokyo-scipy/master/tokyo-scipy-logo.png)
+.. image:: https://raw.githubusercontent.com/scipy-japan/tokyo-scipy/master/tokyo-scipy-logo.png
 
+###########
 Tokyo.SciPy
-===========
+###########
 
 Tokyo.Scipy は科学技術計算で Python を利用するための勉強会です．
 
 関連サイト
-----------
-
-### SciPyJapan
-
-Pythonによるデータ分析の日本国内のコミュニティ
-
-* [ホームページ](https://github.com/scipy-japan/welcome)
-* [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy)：
+==========
 
 
 Tokyo.SciPy の資料
+------------------
 
-* [ホームページ@GitHub](https://github.com/scipy-japan/tokyo-scipy)
-* [Slideshare](http://www.slideshare.net/tag/tokyoscipy)
+* `ホームページ@GitHub <https://github.com/scipy-japan/tokyo-scipy>`_
+* `Slideshare <http://www.slideshare.net/tag/tokyoscipy>`_
+
+SciPyJapan
+----------
+
+Pythonによるデータ分析の日本国内のコミュニティ
+
+* `ホームページ <https://github.com/scipy-japan/welcome>`_
+* `Googleグループ <https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy>`_
 
 目的
-----
+====
 
 NumPy / SciPy について，なるほどこういうことができるのか」「自分の研究ではこう使えそうだ」「他の人はこんな風に使っているのか」という知見を共有し、それぞれの研究や業務において活かすことが目的です．
 
 対象者
-------
+======
 
 * 数値計算ライブラリを研究や実務で使いたい人
 * 特に機械学習、データマイニング、パターン認識、画像処理、音声処理に関わる人
@@ -37,7 +40,7 @@ NumPy / SciPy について，なるほどこういうことができるのか」
 * いろいろな言語の中でPythonが得意な人
 
 前提知識
---------
+========
 
 * 数値計算、確率、統計の基礎 
 
